@@ -1,2 +1,2 @@
-# watson_studio_projects
+# Watson_Studio_Projects
 Assets at IBM Cloud
